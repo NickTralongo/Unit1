@@ -1,2 +1,2 @@
 # ios-Unit1
-<img src = "" width = 250>
+<img src = "http://g.recordit.co/UYGwRvveoM.gif" width = 250>
